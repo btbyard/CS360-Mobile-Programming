@@ -12,11 +12,17 @@ user friendly in the way in naviagets between layouts. I tried to put a home but
 home screen. 
 
 activity_enter_current_weight ---- User entered curent weight here
+
 activity_enter_weight         ---- User entered goal weight here
+
 activity_home_screen          ---- Home screen after login
+
 activity_login                ---- Login after user registered
+
 activity_main                 ---- App opens here where user can login or register
+
 activity_s_m_s                ---- seperate screen to sign up for SMS messaging  
+
 activity_weight_history       ---- seperate screen to enter, update, or delete into memory database
 
 Zybooks helped me a lot with coding methods and procedures, but I also used a lot of youtube and google for things I didn't know
